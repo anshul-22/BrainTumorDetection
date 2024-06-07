@@ -1,0 +1,6 @@
+Flask==3.0.3
+numpy==1.23.5
+opencv-python==4.6.0.66
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
+tensorflow-io-gcs-filesystem==0.31.0
